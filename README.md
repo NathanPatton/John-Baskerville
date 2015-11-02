@@ -5,3 +5,4 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 
 2nd November 2015
 -----------------
++ [Version](https://NathanPatton.github.io/John-Baskerville/version-1.html) - Marked Up plain text file as an HTML5 Page.
