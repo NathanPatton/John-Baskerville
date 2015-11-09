@@ -10,3 +10,4 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 9th November 2015
 -----------------
 + [Version 2](https://NathanPatton.github.io/John-Baskerville/version-2.html) - Added list items.
++ [Version 3](https://NathanPatton.github.io/John-Baskerville/version-3.html) - Added list items.
