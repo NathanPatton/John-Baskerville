@@ -14,4 +14,4 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 
 16th November 2015
 -----------------
-+ [Version 4](https://NathanPatton.github.io/John-Baskerville/version-4.html) - Added tables in place of lists.
++ [Version 4](https://NathanPatton.github.io/John-Baskerville/version-4.html) - Added tables to the document instead of lists.
