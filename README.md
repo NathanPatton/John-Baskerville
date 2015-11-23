@@ -16,3 +16,7 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 -----------------
 + [Version 4](https://NathanPatton.github.io/John-Baskerville/version-4.html) - Added tables to the document instead of lists.
 + [Version 5](https://NathanPatton.github.io/John-Baskerville/version-5.html) - Placed images into the document.
+
+23rd November 2015
+-----------------
++ [Version 4](https://NathanPatton.github.io/John-Baskerville/version-6.html) - Added CSS to the HTML5 document.
