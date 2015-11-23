@@ -19,4 +19,4 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 
 23rd November 2015
 -----------------
-+ [Version 4](https://NathanPatton.github.io/John-Baskerville/version-6.html) - Added CSS to the HTML5 document.
++ [Version 6](https://NathanPatton.github.io/John-Baskerville/version-6.html) - Added CSS to the HTML5 document.
